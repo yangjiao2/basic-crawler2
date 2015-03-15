@@ -1,0 +1,10 @@
+
+Docid: 6767
+URL: http://www.ics.uci.edu/~pattis/ICS-46/programs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics.uci.edu'
+Path: '/~pattis/ICS-46/programs.html'
+Parent page: http://www.ics.uci.edu/~pattis/ICS-46/frameindex.html
+Text length: 4488
+Html length: 5557
+Number of outgoing links: 7
